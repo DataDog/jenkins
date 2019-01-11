@@ -16,7 +16,7 @@ Requirements
 
 Attributes
 ----------
-In order to keep the README managable and in sync with the attributes, this cookbook documents attributes inline. The usage instructions and default values for attributes can be found in the individual attribute files.
+In order to keep the README manageable and in sync with the attributes, this cookbook documents attributes inline. The usage instructions and default values for attributes can be found in the individual attribute files.
 
 Examples
 ---------
